@@ -32,6 +32,8 @@ The app supports different laguages.
 To add a new language look at the Language folder, add your dart file with the new laguage and add it to the Language.dart file.
 Then, change the laguage code in the GlobalVariables.dart
 
+There are various TODO in the app where there are suggestions for new features
+
 ## Screenshots
 
 <p>
