@@ -23,10 +23,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Suggestions
 
-After you create a flutter project copy the ymal file and run flutter pub get.
+After you create a flutter project copy the ymal file and the asset folder then run flutter pub get.
 Then you can copy the lib folder
 
 NOTE: you need to configure you Firebase project adn Firebase Cloud Functions in order to use the app correctly
+There is also a file for firebase rules to apply on the Firebase console
 
 The app supports different laguages.
 To add a new language look at the Language folder, add your dart file with the new laguage and add it to the Language.dart file.
