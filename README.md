@@ -28,6 +28,10 @@ Then you can copy the lib folder
 
 NOTE: you need to configure you Firebase project adn Firebase Cloud Functions in order to use the app correctly
 
+The app supports different laguages.
+To add a new language look at the Language folder, add your dart file with the new laguage and add it to the Language.dart file.
+Then, change the laguage code in the GlobalVariables.dart
+
 ## Screenshots
 
 <p>
